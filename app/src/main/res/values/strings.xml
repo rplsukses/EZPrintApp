@@ -1,0 +1,77 @@
+<resources>
+    <string name="app_name">EZPrint</string>
+    <string name="tab_sign_in">Sign In</string>
+    <string name="tab_sign_up">Sign Up</string>
+    <string name="tab_location">Location</string>
+    <string name="tab_category">Category</string>
+    <string name="tab_inprogress">In Progress</string>
+    <string name="tab_history">Riwayat</string>
+
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="nama">Nama</string>
+
+    <string-array name="list_kategori">
+        <item>Document</item>
+        <item>Poster</item>
+        <item>Banner</item>
+        <item>Photo</item>
+        <item>ID Card</item>
+        <item>Sticker</item>
+    </string-array>
+
+    <string-array name="list_kertas">
+        <item>A3</item>
+        <item>A4</item>
+        <item>A5</item>
+        <item>A6</item>
+        <item>B5</item>
+        <item>F4</item>
+        <item>Legal</item>
+        <item>Letter</item>
+    </string-array>
+
+    <string-array name="list_mitra">
+        <item>Printku</item>
+        <item>Mitra Jaya</item>
+        <item>Cetakku</item>
+        <item>Papyrus</item>
+        <item>Gekko</item>
+        <item>Kopma</item>
+    </string-array>
+
+    <string name="menu_home">Beranda</string>
+    <string name="menu_profile">Profile</string>
+    <string name="menu_order">Pesanan</string>
+    <string name="menu_help">Help</string>
+    <string name="menu_info">About Us</string>
+
+    <string name="next">NEXT</string>
+    <string name="skip">SKIP</string>
+    <string name="start">GOT IT</string>
+    <string name="slide_1_title">Cloud base</string>
+    <string name="slide_1_desc">Upload dan cetak berkas kamu dengan cloud storage tanpa harus repot colok USB</string>
+    <string name="slide_2_title">Bebas antri</string>
+    <string name="slide_2_desc">Cetak berkas kamu dimana saja dan kapan saja dan tentunya tanpa harus Antri</string>
+    <string name="slide_3_title">Harga hemat</string>
+    <string name="slide_3_desc">Dapatkan harga cetak paling hemat mulai dari Rp 250 hanya di EZ Print</string>
+
+    <string name="lbl_close">Close</string>
+    <string name="lbl_open">Open</string>
+
+    <string name="error_required">This field is required!</string>
+    <string name="error_invalid">Email or Password is invalid!</string>
+    <string name="error_password_length">The password must contain at least eight characters!</string>
+    <string name="error_nama"></string>
+    <string name="logout">Log Out</string>
+    <string name="ttl">Tanggal Lahir</string>
+    <string name="telp">Nomor Telphone</string>
+    <string name="gender">Jenis Kelamin</string>
+    <string name="setting_profile">Atur Akun</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="batal">Batal</string>
+    <string name="pilih">Pilih</string>
+    <string name="help">Cari Bantuan</string>
+</resources>
